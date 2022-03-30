@@ -1,2 +1,2 @@
-file -C -m <SCHOOL>
+file -C -m <School>
 file -m <School>
