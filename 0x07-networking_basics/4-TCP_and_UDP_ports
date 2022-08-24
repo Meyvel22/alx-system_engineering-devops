@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A Bash script that displays listening port and shows the PID and name of program
+
+netstat -lp
